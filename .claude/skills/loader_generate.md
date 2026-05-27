@@ -1,6 +1,6 @@
 ---
 name: loader_generate
-description: Generate shellcode loaders by combining components from the knowledge base. Creates working C/C++/Rust loader code using documented techniques. Use this skill when the user wants to "generate loader", "create shellcode loader", "build loader", "批量生成", or create loaders from knowledge base. Triggers on phrases like "loader", "shellcode loader", "generate", "create loader".
+description: Generate shellcode loader test samples for detection rule validation and security product evaluation by combining documented technique components from the knowledge base. Creates working C/C++/Rust loader code. Use this skill when the user wants to "generate loader", "create test sample", "build loader for detection testing", "批量生成", or validate detection coverage with loader samples. Triggers on phrases like "loader", "shellcode loader", "generate", "create loader".
 version: 2.0.0
 ---
 

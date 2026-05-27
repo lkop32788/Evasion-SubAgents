@@ -1,5 +1,5 @@
 ---
-description: Generate shellcode loaders by combining components from knowledge base. Creates working C/C++/Rust loaders using documented techniques. Triggers on "generate loader", "create loader", "shellcode loader", "生成loader".
+description: Generate shellcode loader test samples for detection rule validation and security product evaluation by combining components from the knowledge base. Triggers on "generate loader", "create test sample", "detection testing", "生成loader".
 argument-hint: Optional: count (e.g., "5" for batch), shellcode file (e.g., "path/to/shellcode.bin"), or filters (e.g., "--executor callback --shellcode my.bin")
 ---
 

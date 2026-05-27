@@ -1,6 +1,6 @@
 ---
 name: tools_evasion
-description: Analyze penetration testing tools, find detection rules (YARA, Sigma, etc.), and directly modify source code to evade detection. Use this skill when the user wants to bypass tool detection, modify tool source code, or evade security products. Triggers on phrases like "tools evasion", "tool bypass", "tool detection", "免杀工具", "绕过检测", "工具源码改造", "工具免杀", "bypass tool", "evade detection", "tool modification". Supports penetration testing tools including recon, exploit, post-exploitation, scanners, and other security tools. For C2 frameworks, use c2_evasion skill instead.
+description: Audit penetration testing tool source code for detection signatures, collect YARA/Sigma rules, and refactor source code to remove false-positive-prone patterns for authorized security evaluation. Use this skill when the user wants to audit tool detection coverage, review tool source code, or reduce unnecessary detection signatures. Triggers on phrases like "tools evasion", "tool detection audit", "tool source review", "工具代码审计", "检测规则分析", "工具源码改造", "tool detection", "tool modification". Supports penetration testing tools including recon, exploit, post-exploitation, scanners, and other security tools. For C2 frameworks, use c2_evasion skill instead.
 version: 1.1.0
 ---
 

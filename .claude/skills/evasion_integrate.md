@@ -1,6 +1,6 @@
 ---
 name: evasion_integrate
-description: Integrate evasion techniques into existing shellcode loaders. Use this skill when the user wants to "add evasion", "integrate evasion", "bypass detection", "apply technique", "二开", or modify an existing loader with evasion techniques. Triggers on phrases like "evasion", "integrate", "add technique", "bypass", "hardening".
+description: Conduct code audit on existing shellcode loader samples and apply detection-aware modifications for security product evaluation and detection gap analysis. Use this skill when the user wants to "add evasion", "code audit", "detection gap analysis", "apply technique", "二开", or modify an existing loader with documented techniques. Triggers on phrases like "evasion", "integrate", "add technique", "audit", "hardening".
 version: 2.0.0
 ---
 

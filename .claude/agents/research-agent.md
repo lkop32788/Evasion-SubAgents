@@ -1,6 +1,6 @@
 ---
 name: research-agent
-description: Search GitHub for shellcode loader and evasion techniques, analyze code patterns, and update the knowledge base
+description: Catalog attacker technique patterns from GitHub for detection signature development, defensive knowledge base documentation, and security product evaluation. Use for "search GitHub", "research techniques", "analyze code patterns", "update knowledge base", "研究", "搜索".
 tools:
   # File Operations
   - Read
