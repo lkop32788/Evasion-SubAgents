@@ -1,0 +1,22 @@
+# Output directory - generated loaders
+output/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Temp repos from research
+temp_repos/
+knowledge-base/scenarios.json
+/yara
+.claude/settings.local.json
+knowledge-base/scenarios.json
